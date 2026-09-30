@@ -1,0 +1,15 @@
+node_modules/
+.pydeps/
+.venv/
+data/
+snapshots/
+.qdrant-initialized
+tools/qdrant-server/
+tools/qdrant.zip
+dist/
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+*.log
